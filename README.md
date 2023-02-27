@@ -1,4 +1,4 @@
-# BigMart-Sales-Forecasting.github.io
+# BigMart-Sales-Forecasting
 
 Hi Everyone , This is Surya . 
 I have perfomed Big-Mart Sales Forecasting using XG - Boost Algorithm with my team members for Project presentation in our college.
@@ -20,8 +20,10 @@ Just download the files and run the system, it should run  the web application.
 here are some screenshots:
 
 ![home page](https://user-images.githubusercontent.com/83171692/221588027-ccdc8302-81cc-4a5a-bb7a-e8f426b450c0.JPG)
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ![output sales](https://user-images.githubusercontent.com/83171692/221588034-3aa1302d-bb6a-4214-bf05-4bbc6b744424.JPG)
 
+Run your local server and check !!!
 if you get the above mentioned design in your browser , you are good to go...........
 
 
