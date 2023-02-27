@@ -33,6 +33,7 @@ For the installation > make sure you have latest version of python installed in 
   
   ```
   pip install flask 
+  ```
 
 Just download the files and run the system, it should run  the web application.
 
